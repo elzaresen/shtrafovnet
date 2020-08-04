@@ -111,7 +111,6 @@ const Result = (props) => {
 
 	return (
 		loading ? renderLoading() : renderResult()
-
 	);
 };
 
